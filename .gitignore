@@ -61,8 +61,6 @@ sysinfo.txt
 *.unitypackage
 *.app
 
-# attempt at ignoring Blink
-/[Aa]ssets/Blink/Art/Textures/StylizedDesertTextures/*
 
 # Crashlytics generated file
 crashlytics-build.properties
