@@ -62,7 +62,9 @@ sysinfo.txt
 *.app
 
 # attempt at ignoring Blink
-/[Aa]ssets/Blink/*
+/[Aa]ssets/Blink/Art/Textures/StylizedDesertTextures/*
+/[Aa]ssets/Blink/Art/Textures/StylizedForestTextures/*
+/[Aa]ssets/Blink/Art/Textures/StylizedIceTextures/*
 
 # Crashlytics generated file
 crashlytics-build.properties
